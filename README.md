@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://github.com/mqqq333/Asymmetric-GAN" target="blank">
+<a href="https://github.com/mqqq333/DecodeWM" target="blank">
 <img src="./img/trans_480x480.png" width="480" height = "345" alt="Logo" />
 </a>
 
-<h2> Asymmetric-GAN: Hemispheric-Specific Brain Modeling and Analysis Based on Generative Adversarial Networks </h2>
+<h2> DecodeWM: Predictive Model for Memory Load Types in N-back Working Memory Task </h2>
 
 
 
