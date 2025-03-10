@@ -8,8 +8,8 @@
 
 
 
-<img src ="./img/workflow.png" width="100%" height = "500px">
-<img src ="./img/lr-acc.png" width="50%" height = "500px"><img src ="./img/rf-acc.png" width="50%" height = "500px">
+<img src ="./img/workflow.png" width="100%" height = "150px">
+<img src ="./img/lr-acc.png" width="50%" height = "150px"><img src ="./img/rf-acc.png" width="50%" height = "150px">
 
 
 </div>
